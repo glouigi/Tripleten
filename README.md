@@ -9,7 +9,7 @@ El proyecto utilizó un conjunto de datos de anuncios de venta de coches "vehicl
 
 ## PASOS:
 
-### PASO 1: REQUISITOS DEL PROJECTO
+### PASO 1: REQUISITOS DEL PROYECTO
 
 - Crea una cuenta en GitHub e inicié un nuevo repositorio con los archivos README.md y .gitignore.
 - Instala los paquetes necesarios, incluyendo pandas, streamlit, y plotly-express.

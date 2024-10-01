@@ -44,6 +44,6 @@ El proyecto utilizó un conjunto de datos de anuncios de venta de coches "vehicl
 - Despliega la versión final de la aplicación en Render.
 - Verificada la accesibilidad de la aplicación en el link: 
 
-## Conclusion
+## CONCLUCION
 
 Esta aplicación Streamlit proporciona una visualización interactiva del conjunto de datos "vehicle_us.csv". La aplicación se desarrolló como parte de la práctica de tareas de Ciencia de Datos, a saber, la creación de entornos virtuales Python, el desarrollo de una aplicación web y su despliegue en un servicio en la nube. La aplicación está activa y se puede acceder a ella. 

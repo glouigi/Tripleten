@@ -42,8 +42,10 @@ El proyecto utilizó un conjunto de datos de anuncios de venta de coches "vehicl
     - BULILD COMMAND: pip install --upgrade pip && pip install -r requirements.txt
     - START COMMAND: streamlit run app.py
 - Despliega la versión final de la aplicación en Render.
-- Verificada la accesibilidad de la aplicación en el link: 
+- Verificada la accesibilidad de la aplicación en el link: https://tripleten-project-spring-6.onrender.com/
 
 ## CONCLUCION
 
-Esta aplicación Streamlit proporciona una visualización interactiva del conjunto de datos "vehicle_us.csv". La aplicación se desarrolló como parte de la práctica de tareas de Ciencia de Datos, a saber, la creación de entornos virtuales Python, el desarrollo de una aplicación web y su despliegue en un servicio en la nube. La aplicación está activa y se puede acceder a ella. 
+Esta aplicación Streamlit proporciona una visualización interactiva del conjunto de datos "vehicle_us.csv". La aplicación se desarrolló como parte de la práctica de tareas de Ciencia de Datos, a saber, la creación de entornos virtuales Python, el desarrollo de una aplicación web y su despliegue en un servicio en la nube. La aplicación está activa y se puede acceder a ella. https://tripleten-project-spring-6.onrender.com/
+
+PROYECTO DE: GIORGIO RAMIREZ
